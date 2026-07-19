@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+.vscode/
+input/
+.env
+.vscode
+
+
 # C extensions
 *.so
 
